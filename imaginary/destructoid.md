@@ -78,3 +78,8 @@ Vậy là chỉ cần sinh ra chuỗi json rồi sửa lại thông số về pa
  ```
  Tuy nhiên chỉ thế này thôi là chưa đủ khi dựng lại môi trường test trên máy local mình nhận ra là biến `$printflag` không hề được set giá trị `true` nên mình đã thử gọi thêm class Y một lần nữa và wala 
  ![image](https://user-images.githubusercontent.com/36907708/127254550-7923b05a-e292-4d47-a5fb-7ace757a31f4.png)
+ 
+ 
+ gadget : 
+ ![image](https://user-images.githubusercontent.com/36907708/127255649-c1539203-c386-40f6-a2f7-f65c3e76f8b9.png)
+
