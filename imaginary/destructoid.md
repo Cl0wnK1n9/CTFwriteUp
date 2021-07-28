@@ -81,5 +81,6 @@ Vậy là chỉ cần sinh ra chuỗi json rồi sửa lại thông số về pa
  
  
  gadget : 
+ 
  ![image](https://user-images.githubusercontent.com/36907708/127255649-c1539203-c386-40f6-a2f7-f65c3e76f8b9.png)
 
